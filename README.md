@@ -143,5 +143,5 @@ MIT © 2025 X4A Team
 ---
 ```
 
-**Copy & paste the entire block above into your `README.md`**
+
 ```
