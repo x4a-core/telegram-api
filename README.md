@@ -139,9 +139,3 @@ Wallet: `9xFh...`
 ## License
 
 MIT © 2025 X4A Team
-
----
-```
-
-
-```
